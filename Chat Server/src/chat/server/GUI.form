@@ -72,6 +72,7 @@
   <SubComponents>
     <Component class="javax.swing.JTextField" name="jTextField1">
       <Properties>
+        <Property name="text" type="java.lang.String" value="Enter Username Please"/>
         <Property name="toolTipText" type="java.lang.String" value="Enter Text Here"/>
       </Properties>
       <AuxValues>

@@ -33,6 +33,7 @@ public class GUI extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
+        jTextField1.setText("Enter Username Please");
         jTextField1.setToolTipText("Enter Text Here");
 
         jButton1.setLabel("SEND");
